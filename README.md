@@ -4,5 +4,5 @@
 
 - **Topics**: Side Scrolling, Infinite Generation, Parallax
 - **Version**: Unity 6000.0.24f1 (LTS)
-- [**Download**](https://github.com/zigurous/unity-flappy-bird-tutorial/archive/refs/heads/main.zip)
+- [**Download**](https://github.com/Shashwat787/Flappy-Bird-Game/archive/refs/heads/main.zip)
 
